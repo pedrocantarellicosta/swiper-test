@@ -40,8 +40,6 @@
     "vue-tsc": "^2.1.10"
   },
   "dependencies": {
-    "hls.js": "^1.6.2",
-    "plyr": "^3.7.8",
     "swiper": "^6.8.4",
     "vue3-touch-events": "^5.0.13"
   },

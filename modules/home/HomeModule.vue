@@ -1,5 +1,5 @@
 <template>
   <div>
-    <ShotsNew />
+    <Shots />
   </div>
 </template>
