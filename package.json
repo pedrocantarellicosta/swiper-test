@@ -1,0 +1,49 @@
+{
+  "name": "swiper-test-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev --host",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@nuxt/image": "^1.7.0",
+    "@nuxt/test-utils": "^3.12.0",
+    "@nuxtjs/device": "^3.1.1",
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@nuxtjs/stylelint-module": "^5.1.0",
+    "@nuxtjs/tailwindcss": "^6.10.1",
+    "@tailwindcss/line-clamp": "^0.4.4",
+    "@types/node": "^18.17.5",
+    "@vitejs/plugin-vue": "^4.5.0",
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-storybook": "^0.11.1",
+    "eslint-plugin-vue": "^9.18.1",
+    "nuxt": "^3.14.1592",
+    "postcss-html": "^1.5.0",
+    "prettier": "3.3.0",
+    "stylelint": "^15.11.0",
+    "stylelint-config-recommended-vue": "^1.5.0",
+    "stylelint-config-standard": "^34.0.0",
+    "tsx": "^4.15.7",
+    "typescript": "~5.6.3",
+    "vitest": "^2.1.8",
+    "vue": "^3.3.8",
+    "vue-router": "^4.2.5",
+    "vue-tsc": "^2.1.10"
+  },
+  "dependencies": {
+    "hls.js": "^1.6.2",
+    "plyr": "^3.7.8",
+    "swiper": "^6.8.4",
+    "vue3-touch-events": "^5.0.13"
+  },
+  "packageManager": "yarn@4.6.0+sha512.5383cc12567a95f1d668fbe762dfe0075c595b4bfff433be478dbbe24e05251a8e8c3eb992a986667c1d53b6c3a9c85b8398c35a960587fbd9fa3a0915406728"
+}

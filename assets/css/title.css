@@ -1,0 +1,6 @@
+.title {
+  @apply uppercase text-aux-black;
+  strong {
+      @apply text-aux-black; /* font-montserrat-semibold */
+  }
+}
