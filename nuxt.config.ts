@@ -64,8 +64,7 @@ export default defineNuxtConfig({
     'swiper/swiper-bundle.css',
     'swiper/components/navigation/navigation.min.css',
     'swiper/components/pagination/pagination.min.css',
-    'swiper/components/lazy/lazy.min.css',
-    'plyr/dist/plyr.css'
+    'swiper/components/lazy/lazy.min.css'
   ],
 
   devtools: { enabled: false },
